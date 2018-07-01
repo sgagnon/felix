@@ -6,4 +6,4 @@ Wagner Lab helper functions for presenting stimuli and collecting behavioral dat
 
 ### Acknowledgements
 
-Thanks to Amitai Shenhav for scripts/MATLAB code snippets that have been used/modified in this repository.
+Thanks to Amitai Shenhav, Kelly Hennigan, and the Wagner Lab for scripts/MATLAB code snippets that have been used/modified in this repository.
